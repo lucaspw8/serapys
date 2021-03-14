@@ -1,0 +1,19 @@
+.bt{
+    background: linear-gradient(to bottom right, #ffffff -5%, #ff8a5f 100%);
+    
+    border-radius: 10px;
+    color: #fff;
+}
+
+.bt:hover{
+    background: linear-gradient(to bottom right, #f7f1f1 -5%, #f07549 100%);
+    border-radius: 10px;
+    color: #fff;
+}
+
+.card-info{
+    background: #ffffff;
+    border-radius: 80px 80px 0 0;
+    margin-top: -20px;
+    color:#ff8a5f;
+}
